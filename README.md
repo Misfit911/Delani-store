@@ -13,7 +13,7 @@ This project is about Delani Studio where we offer a full range of services incl
 
  ### Setup Instructions
 
-Run the code in the link to working example[https://github.com/kitili/Delani-store.git]
+Run the code in the link to working example[https://github.com/Misfit911/Delani-store]
 ### Technologies Used
 
 Built with:
